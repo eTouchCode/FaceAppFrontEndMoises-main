@@ -1,0 +1,12 @@
+.sidebar{
+    /* position: fixed; */
+    height: 100vh;
+   }
+   .app{
+    overflow: hidden;
+   }
+
+   .content1{
+    overflow: auto;
+    height: calc(100vh - 60px);
+   }
